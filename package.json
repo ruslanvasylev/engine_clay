@@ -1,8 +1,7 @@
 {
   "version": "0.0.5",
   "description": "3D BIM Modelling API",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "src/index.js",
   "scripts": {
     "test": "jest",
     "build": "tsc && yarn build-examples",
