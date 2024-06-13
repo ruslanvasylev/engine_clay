@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ThatOpen/engine_clay.git"
+    "url": "git+https://github.com/ruslanvasylev/engine_clay.git"
   },
   "keywords": [
     "ifc",
@@ -20,12 +20,16 @@
     "bim",
     "3d"
   ],
-  "author": "agviegas",
+  "contributors": [
+    "Antonio Gonzalez Viegas (https://github.com/agviegas)",
+    "Juan Hoyos (https://github.com/HoyosJuan)",
+    "Harry Collin (https://github.com/harrycollin)"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ThatOpen/engine_clay/issues"
+    "url": "https://github.com/ruslanvasylev/engine_clay/issues"
   },
-  "homepage": "https://github.com/ThatOpen/engine_clay",
+  "homepage": "https://github.com/ruslanvasylev/engine_clay",
   "dependencies": {
     "earcut": "^2.2.4",
     "three-mesh-bvh": "0.7.0",
