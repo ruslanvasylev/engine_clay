@@ -1,5 +1,4 @@
 {
-  "name": "openbim-clay",
   "version": "0.0.5",
   "description": "3D BIM Modelling API",
   "main": "src/index.js",
@@ -35,7 +34,7 @@
   "peerDependencies": {
     "bim-fragment": "1.4.2",
     "three": "^0.160.1",
-    "web-ifc": "^0.0.51"
+    "web-ifc": "^0.0.53"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "25.0.0",
@@ -62,7 +61,7 @@
     "ts-jest": "^27.0.3",
     "ts-node": "^10.0.0",
     "typescript": "^4.3.2",
-    "web-ifc": "0.0.51"
+    "web-ifc": "^0.0.53"
   },
   "browser": {
     "crypto": false,
